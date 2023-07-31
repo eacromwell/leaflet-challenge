@@ -1,0 +1,35 @@
+/* Global reset for padding and margin */
+body {
+  padding: 0;
+  margin: 0;
+}
+
+/* Set full height for map, body, and html */
+#map,
+body,
+html {
+  height: 100%;
+}
+
+/* Information container */
+.info {
+  padding: 6px 15px;
+  background: rgba(255, 255, 255, 0.8);
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+}
+
+/* Legend container */
+.legend {
+  line-height: 20px;
+  color: #000;
+}
+
+/* Color swatches in legend */
+.legend i {
+  width: 15px;
+  height: 15px;
+  float: left;
+  margin-right: 10px;
+  opacity: 1.0;
+}

@@ -31,4 +31,7 @@ Data Points (40 points)
 
 # Visualizations:
 
-Figure 1
+Figure 1 - Overview
+
+![fig_1_overview](https://github.com/eacromwell/leaflet-challenge/assets/123791177/8850ecd2-2731-4d88-b37f-5096ab4e191e)
+
